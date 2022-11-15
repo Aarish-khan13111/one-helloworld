@@ -8,6 +8,7 @@ function App() {
       <h1 style={{ textAling: "center" }}>Hellow World</h1>;
       <Button title="App store" />
       <Button title="Play store" />
+      <Button />
       {/* <button className="button">clickk</button> */}
     </div>
   );
